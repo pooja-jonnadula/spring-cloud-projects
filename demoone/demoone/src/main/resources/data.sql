@@ -1,0 +1,1 @@
+insert into CRONJOB (id,cronexpn) vALUES (1,'0 * * ? * *');
